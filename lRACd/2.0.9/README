@@ -1,0 +1,1 @@
+lRACd is RAC 2 server. Type make to build lRACd. Add -DIP to CFLAGS to show addresses of clients. See usage by launching lRACd without arguments.
